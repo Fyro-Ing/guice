@@ -9,10 +9,6 @@ os:
   - osx
   - windows
 
-branches:
-  only:
-    - master
-
 # Install OpenJDK 8 and Maven on Linux (Ubuntu - Xenial)
 addons:
   apt:
