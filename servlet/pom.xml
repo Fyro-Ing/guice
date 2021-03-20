@@ -26,7 +26,6 @@
         <relativePath>..</relativePath>
     </parent>
 
-    <groupId>com.mycila.guice</groupId>
     <artifactId>guice-servlet</artifactId>
     <packaging>jar</packaging>
 
